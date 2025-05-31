@@ -1,6 +1,6 @@
 ![Dreaming Frontender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dreaming%20to%20be%20Frontender&section=header&textBg=false&fontColor=fff&fontSize=60)
 <h3> 자기소개</h3>
-<span>삼성소프트웨어아카데미(SSAFY) 12기를 수료한 예비 프론트엔드 개발자입니다. 사용자의 경험을 향상시키기 위해 새로운 기술을 도입하는 데 주저함이 없습니다.</span>
+<span>삼성소프트웨어아카데미(SSAFY) 12기를 수료한 예비 프론트엔드 개발자입니다.  사용자의 경험을 향상시키기 위해 새로운 기술을 도입하고, 디버깅을 통해 의도한 바대로 경험을 제공하려 노력합니다.</span>
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
