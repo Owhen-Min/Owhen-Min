@@ -1,4 +1,4 @@
-![Dreaming Frontender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dreaming%20to%20be%20Frontender&section=header&textBg=false&fontColor=fff&fontSize=60)
+![Refines UX With Tech]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dreaming%20to%20be%20Frontender&section=header&textBg=false&fontColor=fff&fontSize=60](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Refines%20UX%20With%20Tech&textBg=false))
 <h3> 자기소개</h3>
 <span>삼성소프트웨어AI아카데미(SSAFY) 12기를 수료한 프론트엔드 개발자입니다.
   <br>
